@@ -17,5 +17,6 @@ Hi, I'm Abhinav <br>🚀 Full-stack Developer | MERN Stack <br>🎯 Job Seeker |
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhinavNauti-yl&icon=8&color=0)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AbhinavNauti-yl)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
